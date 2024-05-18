@@ -1,0 +1,22 @@
+1- Create a requirements.txt File:
+2- Install Dependencies:
+	a-Open a terminal or command prompt.
+	b-Navigate to your project directory.
+	c-Use pip freeze > requirements.txt to generate a list of currently installed packages and 	their versions, and save them to the requirements.txt file. This step is optional but can be 	useful if you want to ensure consistency between development and production environments.
+	d- Alternatively, you can manually specify the dependencies in the requirements.txt file. Each 	dependency should be listed on a separate line, with optional version specifications. For example:
+    Flask==2.0.1
+    SQLAlchemy==1.4.23
+    requests>=2.26.0
+
+	e-Replace the package names and versions with the ones required for your Flask application.
+
+3- Install Dependencies from requirements.txt:
+	a- Run pip install -r requirements.txt in your terminal. This command installs all the dependencies listed in the requirements.txt file.
+    b- Make sure you have activated the virtual environment (if you're using one) where you want to install the dependencies.
+
+4- Verify Installation:
+
+	a- After running the pip install command, pip will download and install the specified packages. You should see output indicating the successful installation of each package.
+	b-You can verify that the dependencies were installed correctly by checking the output or by running pip list to display all installed packages.
+
+

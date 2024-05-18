@@ -1,0 +1,20 @@
+1- Create a Virtual Environment:
+    a- Open a terminal or command prompt.
+    b- Navigate to your project directory.
+    c- Run the following command to create a virtual environment named venv:
+
+	python -m venv venv
+
+2- Activate the Virtual Environment:
+	venv\Scripts\activate
+
+3- Install Dependencies:
+	pip install -r requirements.txt
+
+4- Run the Flask Application:
+	set FLASK_APP=app.py
+
+5- Run the Flask application using the flask run command:
+	flask run
+
+http://127.0.0.1:5000/

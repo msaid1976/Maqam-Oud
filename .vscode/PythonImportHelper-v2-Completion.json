@@ -1,0 +1,716 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "get_response",
+        "importPath": "chat",
+        "description": "chat",
+        "isExtraImport": true,
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "NeuralNet",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "NeuralNet",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "bag_of_words",
+        "importPath": "nltk_utils",
+        "description": "nltk_utils",
+        "isExtraImport": true,
+        "detail": "nltk_utils",
+        "documentation": {}
+    },
+    {
+        "label": "tokenize",
+        "importPath": "nltk_utils",
+        "description": "nltk_utils",
+        "isExtraImport": true,
+        "detail": "nltk_utils",
+        "documentation": {}
+    },
+    {
+        "label": "bag_of_words",
+        "importPath": "nltk_utils",
+        "description": "nltk_utils",
+        "isExtraImport": true,
+        "detail": "nltk_utils",
+        "documentation": {}
+    },
+    {
+        "label": "tokenize",
+        "importPath": "nltk_utils",
+        "description": "nltk_utils",
+        "isExtraImport": true,
+        "detail": "nltk_utils",
+        "documentation": {}
+    },
+    {
+        "label": "stem",
+        "importPath": "nltk_utils",
+        "description": "nltk_utils",
+        "isExtraImport": true,
+        "detail": "nltk_utils",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "PorterStemmer",
+        "importPath": "nltk.stem.porter",
+        "description": "nltk.stem.porter",
+        "isExtraImport": true,
+        "detail": "nltk.stem.porter",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "keras.optimizers",
+        "description": "keras.optimizers",
+        "isExtraImport": true,
+        "detail": "keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "keras",
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "isExtraImport": true,
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "keras.models",
+        "description": "keras.models",
+        "isExtraImport": true,
+        "detail": "keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Activation",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def home():\n    return render_template('index.html')\n    # return render_template('chat.html')\n@app.route('/chat')\ndef chat():\n    return render_template('chat.html')\n@app.route(\"/chat\", methods=[\"GET\", \"POST\"])\ndef submit():\n    # main()\n    if request.method == 'POST':",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "chat",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def chat():\n    return render_template('chat.html')\n@app.route(\"/chat\", methods=[\"GET\", \"POST\"])\ndef submit():\n    # main()\n    if request.method == 'POST':\n        the_question = request.form['msg']\n        response = get_response(the_question)\n        L.append(the_question)\n        L1.append(response)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "submit",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def submit():\n    # main()\n    if request.method == 'POST':\n        the_question = request.form['msg']\n        response = get_response(the_question)\n        L.append(the_question)\n        L1.append(response)\n        # text_to_speech = gTTS(text=response, lang='en', slow=True)\n        # text_to_speech.save('test.mp3')\n        # # play the audio",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\napp.secret_key = '192b9bdd22ab9ed4d12e236c78afcb9a393ec15f71bbf5dc987d54727823bcbf'\nL=[]\nL1=[]\nc=0\n@app.route('/')\ndef home():\n    return render_template('index.html')\n    # return render_template('chat.html')\n@app.route('/chat')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.secret_key = '192b9bdd22ab9ed4d12e236c78afcb9a393ec15f71bbf5dc987d54727823bcbf'\nL=[]\nL1=[]\nc=0\n@app.route('/')\ndef home():\n    return render_template('index.html')\n    # return render_template('chat.html')\n@app.route('/chat')\ndef chat():",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "get_response",
+        "kind": 2,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "def get_response(msg):\n    sentence = tokenize(msg)\n    X = bag_of_words(sentence, all_words)\n    X = X.reshape(1, X.shape[0])\n    X = torch.from_numpy(X).to(device)\n    output = model(X)\n    _, predicted = torch.max(output, dim=1)\n    tag = tags[predicted.item()]\n    probs = torch.softmax(output, dim=1)\n    prob = probs[0][predicted.item()]",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\nwith open('intents.json', 'r') as json_data:\n    intents = json.load(json_data)\nFILE = \"data.pth\"\ndata = torch.load(FILE)\ninput_size = data[\"input_size\"]\nhidden_size = data[\"hidden_size\"]\noutput_size = data[\"output_size\"]\nall_words = data['all_words']\ntags = data['tags']",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "FILE",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "FILE = \"data.pth\"\ndata = torch.load(FILE)\ninput_size = data[\"input_size\"]\nhidden_size = data[\"hidden_size\"]\noutput_size = data[\"output_size\"]\nall_words = data['all_words']\ntags = data['tags']\nmodel_state = data[\"model_state\"]\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\nmodel.load_state_dict(model_state)",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "data = torch.load(FILE)\ninput_size = data[\"input_size\"]\nhidden_size = data[\"hidden_size\"]\noutput_size = data[\"output_size\"]\nall_words = data['all_words']\ntags = data['tags']\nmodel_state = data[\"model_state\"]\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\nmodel.load_state_dict(model_state)\nmodel.eval()",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "input_size",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "input_size = data[\"input_size\"]\nhidden_size = data[\"hidden_size\"]\noutput_size = data[\"output_size\"]\nall_words = data['all_words']\ntags = data['tags']\nmodel_state = data[\"model_state\"]\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\nmodel.load_state_dict(model_state)\nmodel.eval()\nbot_name = \"Sam\"",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "hidden_size",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "hidden_size = data[\"hidden_size\"]\noutput_size = data[\"output_size\"]\nall_words = data['all_words']\ntags = data['tags']\nmodel_state = data[\"model_state\"]\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\nmodel.load_state_dict(model_state)\nmodel.eval()\nbot_name = \"Sam\"\ndef get_response(msg):",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "output_size",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "output_size = data[\"output_size\"]\nall_words = data['all_words']\ntags = data['tags']\nmodel_state = data[\"model_state\"]\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\nmodel.load_state_dict(model_state)\nmodel.eval()\nbot_name = \"Sam\"\ndef get_response(msg):\n    sentence = tokenize(msg)",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "all_words",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "all_words = data['all_words']\ntags = data['tags']\nmodel_state = data[\"model_state\"]\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\nmodel.load_state_dict(model_state)\nmodel.eval()\nbot_name = \"Sam\"\ndef get_response(msg):\n    sentence = tokenize(msg)\n    X = bag_of_words(sentence, all_words)",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "tags",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "tags = data['tags']\nmodel_state = data[\"model_state\"]\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\nmodel.load_state_dict(model_state)\nmodel.eval()\nbot_name = \"Sam\"\ndef get_response(msg):\n    sentence = tokenize(msg)\n    X = bag_of_words(sentence, all_words)\n    X = X.reshape(1, X.shape[0])",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "model_state",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "model_state = data[\"model_state\"]\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\nmodel.load_state_dict(model_state)\nmodel.eval()\nbot_name = \"Sam\"\ndef get_response(msg):\n    sentence = tokenize(msg)\n    X = bag_of_words(sentence, all_words)\n    X = X.reshape(1, X.shape[0])\n    X = torch.from_numpy(X).to(device)",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "model = NeuralNet(input_size, hidden_size, output_size).to(device)\nmodel.load_state_dict(model_state)\nmodel.eval()\nbot_name = \"Sam\"\ndef get_response(msg):\n    sentence = tokenize(msg)\n    X = bag_of_words(sentence, all_words)\n    X = X.reshape(1, X.shape[0])\n    X = torch.from_numpy(X).to(device)\n    output = model(X)",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "bot_name",
+        "kind": 5,
+        "importPath": "chat",
+        "description": "chat",
+        "peekOfCode": "bot_name = \"Sam\"\ndef get_response(msg):\n    sentence = tokenize(msg)\n    X = bag_of_words(sentence, all_words)\n    X = X.reshape(1, X.shape[0])\n    X = torch.from_numpy(X).to(device)\n    output = model(X)\n    _, predicted = torch.max(output, dim=1)\n    tag = tags[predicted.item()]\n    probs = torch.softmax(output, dim=1)",
+        "detail": "chat",
+        "documentation": {}
+    },
+    {
+        "label": "NeuralNet",
+        "kind": 6,
+        "importPath": "model",
+        "description": "model",
+        "peekOfCode": "class NeuralNet(nn.Module):\n    def __init__(self, input_size, hidden_size, num_classes):\n        super(NeuralNet, self).__init__()\n        self.l1 = nn.Linear(input_size, hidden_size)\n        self.l2 = nn.Linear(hidden_size, hidden_size)\n        self.l3 = nn.Linear(hidden_size, num_classes)\n        self.relu = nn.ReLU()\n    def forward(self, x):\n        out = self.l1(x)\n        out = self.relu(out)",
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "tokenize",
+        "kind": 2,
+        "importPath": "nltk_utils",
+        "description": "nltk_utils",
+        "peekOfCode": "def tokenize(sentence):\n    \"\"\"\n    split sentence into array of words/tokens\n    a token can be a word or punctuation character, or number\n    \"\"\"\n    return nltk.word_tokenize(sentence)\ndef stem(word):\n    \"\"\"\n    stemming = find the root form of the word\n    examples:",
+        "detail": "nltk_utils",
+        "documentation": {}
+    },
+    {
+        "label": "stem",
+        "kind": 2,
+        "importPath": "nltk_utils",
+        "description": "nltk_utils",
+        "peekOfCode": "def stem(word):\n    \"\"\"\n    stemming = find the root form of the word\n    examples:\n    words = [\"organize\", \"organizes\", \"organizing\"]\n    words = [stem(w) for w in words]\n    -> [\"organ\", \"organ\", \"organ\"]\n    \"\"\"\n    return stemmer.stem(word.lower())\ndef bag_of_words(tokenized_sentence, words):",
+        "detail": "nltk_utils",
+        "documentation": {}
+    },
+    {
+        "label": "bag_of_words",
+        "kind": 2,
+        "importPath": "nltk_utils",
+        "description": "nltk_utils",
+        "peekOfCode": "def bag_of_words(tokenized_sentence, words):\n    \"\"\"\n    return bag of words array:\n    1 for each known word that exists in the sentence, 0 otherwise\n    example:\n    sentence = [\"hello\", \"how\", \"are\", \"you\"]\n    words = [\"hi\", \"hello\", \"I\", \"you\", \"bye\", \"thank\", \"cool\"]\n    bog   = [  0 ,    1 ,    0 ,   1 ,    0 ,    0 ,      0]\n    \"\"\"\n    # stem each word",
+        "detail": "nltk_utils",
+        "documentation": {}
+    },
+    {
+        "label": "stemmer",
+        "kind": 5,
+        "importPath": "nltk_utils",
+        "description": "nltk_utils",
+        "peekOfCode": "stemmer = PorterStemmer()\ndef tokenize(sentence):\n    \"\"\"\n    split sentence into array of words/tokens\n    a token can be a word or punctuation character, or number\n    \"\"\"\n    return nltk.word_tokenize(sentence)\ndef stem(word):\n    \"\"\"\n    stemming = find the root form of the word",
+        "detail": "nltk_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ChatDataset",
+        "kind": 6,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "class ChatDataset(Dataset):\n    def __init__(self):\n        self.n_samples = len(X_train)\n        self.x_data = X_train\n        self.y_data = y_train\n    # support indexing such that dataset[i] can be used to get i-th sample\n    def __getitem__(self, index):\n        return self.x_data[index], self.y_data[index]\n    # we can call len(dataset) to return the size\n    def __len__(self):",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "get_response",
+        "kind": 2,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "def get_response(msg):\n    sentence = tokenize(msg)\n    X = bag_of_words(sentence, all_words)\n    X = X.reshape(1, X.shape[0])\n    X = torch.from_numpy(X).to(device)\n    output = model(X)\n    _, predicted = torch.max(output, dim=1)\n    tag = tags[predicted.item()]\n    probs = torch.softmax(output, dim=1)\n    prob = probs[0][predicted.item()]",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "all_words",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "all_words = []\ntags = []\nxy = []\n# loop through each sentence in our intents patterns\nfor intent in intents['intents']:\n    tag = intent['tag']\n    # add to tag list\n    tags.append(tag)\n    for pattern in intent['patterns']:\n        # tokenize each word in the sentence",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "tags",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "tags = []\nxy = []\n# loop through each sentence in our intents patterns\nfor intent in intents['intents']:\n    tag = intent['tag']\n    # add to tag list\n    tags.append(tag)\n    for pattern in intent['patterns']:\n        # tokenize each word in the sentence\n        w = tokenize(pattern)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "xy",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "xy = []\n# loop through each sentence in our intents patterns\nfor intent in intents['intents']:\n    tag = intent['tag']\n    # add to tag list\n    tags.append(tag)\n    for pattern in intent['patterns']:\n        # tokenize each word in the sentence\n        w = tokenize(pattern)\n        # add to our words list",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "ignore_words",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "ignore_words = ['?', '.', '!']\nall_words = [stem(w) for w in all_words if w not in ignore_words]\n# remove duplicates and sort\nall_words = sorted(set(all_words))\ntags = sorted(set(tags))\nprint(len(xy), \"patterns\")\nprint(len(tags), \"tags:\", tags)\nprint(len(all_words), \"unique stemmed words:\", all_words)\n# create training data\nX_train = []",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "all_words",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "all_words = [stem(w) for w in all_words if w not in ignore_words]\n# remove duplicates and sort\nall_words = sorted(set(all_words))\ntags = sorted(set(tags))\nprint(len(xy), \"patterns\")\nprint(len(tags), \"tags:\", tags)\nprint(len(all_words), \"unique stemmed words:\", all_words)\n# create training data\nX_train = []\ny_train = []",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "all_words",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "all_words = sorted(set(all_words))\ntags = sorted(set(tags))\nprint(len(xy), \"patterns\")\nprint(len(tags), \"tags:\", tags)\nprint(len(all_words), \"unique stemmed words:\", all_words)\n# create training data\nX_train = []\ny_train = []\nfor (pattern_sentence, tag) in xy:\n    # X: bag of words for each pattern_sentence",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "tags",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "tags = sorted(set(tags))\nprint(len(xy), \"patterns\")\nprint(len(tags), \"tags:\", tags)\nprint(len(all_words), \"unique stemmed words:\", all_words)\n# create training data\nX_train = []\ny_train = []\nfor (pattern_sentence, tag) in xy:\n    # X: bag of words for each pattern_sentence\n    bag = bag_of_words(pattern_sentence, all_words)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "X_train = []\ny_train = []\nfor (pattern_sentence, tag) in xy:\n    # X: bag of words for each pattern_sentence\n    bag = bag_of_words(pattern_sentence, all_words)\n    X_train.append(bag)\n    # y: PyTorch CrossEntropyLoss needs only class labels, not one-hot\n    label = tags.index(tag)\n    y_train.append(label)\nX_train = np.array(X_train)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "y_train",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "y_train = []\nfor (pattern_sentence, tag) in xy:\n    # X: bag of words for each pattern_sentence\n    bag = bag_of_words(pattern_sentence, all_words)\n    X_train.append(bag)\n    # y: PyTorch CrossEntropyLoss needs only class labels, not one-hot\n    label = tags.index(tag)\n    y_train.append(label)\nX_train = np.array(X_train)\ny_train = np.array(y_train)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "X_train",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "X_train = np.array(X_train)\ny_train = np.array(y_train)\nw\nprint(X_train)\nprint(len(X_train))\nprint(y_train)\nprint(len(X_train))\n# Hyper-parameters\nnum_epochs = 1000\nbatch_size = 8",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "y_train",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "y_train = np.array(y_train)\nw\nprint(X_train)\nprint(len(X_train))\nprint(y_train)\nprint(len(X_train))\n# Hyper-parameters\nnum_epochs = 1000\nbatch_size = 8\nlearning_rate = 0.001",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "num_epochs",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "num_epochs = 1000\nbatch_size = 8\nlearning_rate = 0.001\ninput_size = len(X_train[0])\nhidden_size = 8\noutput_size = len(tags)\nprint(input_size, output_size)\nclass ChatDataset(Dataset):\n    def __init__(self):\n        self.n_samples = len(X_train)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "batch_size = 8\nlearning_rate = 0.001\ninput_size = len(X_train[0])\nhidden_size = 8\noutput_size = len(tags)\nprint(input_size, output_size)\nclass ChatDataset(Dataset):\n    def __init__(self):\n        self.n_samples = len(X_train)\n        self.x_data = X_train",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "learning_rate",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "learning_rate = 0.001\ninput_size = len(X_train[0])\nhidden_size = 8\noutput_size = len(tags)\nprint(input_size, output_size)\nclass ChatDataset(Dataset):\n    def __init__(self):\n        self.n_samples = len(X_train)\n        self.x_data = X_train\n        self.y_data = y_train",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "input_size",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "input_size = len(X_train[0])\nhidden_size = 8\noutput_size = len(tags)\nprint(input_size, output_size)\nclass ChatDataset(Dataset):\n    def __init__(self):\n        self.n_samples = len(X_train)\n        self.x_data = X_train\n        self.y_data = y_train\n    # support indexing such that dataset[i] can be used to get i-th sample",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "hidden_size",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "hidden_size = 8\noutput_size = len(tags)\nprint(input_size, output_size)\nclass ChatDataset(Dataset):\n    def __init__(self):\n        self.n_samples = len(X_train)\n        self.x_data = X_train\n        self.y_data = y_train\n    # support indexing such that dataset[i] can be used to get i-th sample\n    def __getitem__(self, index):",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "output_size",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "output_size = len(tags)\nprint(input_size, output_size)\nclass ChatDataset(Dataset):\n    def __init__(self):\n        self.n_samples = len(X_train)\n        self.x_data = X_train\n        self.y_data = y_train\n    # support indexing such that dataset[i] can be used to get i-th sample\n    def __getitem__(self, index):\n        return self.x_data[index], self.y_data[index]",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "dataset = ChatDataset()\ntrain_loader = DataLoader(dataset=dataset,\n                          batch_size=batch_size,\n                          shuffle=True,\n                          num_workers=0)\ndevice = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\n# Loss and optimizer\ncriterion = nn.CrossEntropyLoss()\noptimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "train_loader",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "train_loader = DataLoader(dataset=dataset,\n                          batch_size=batch_size,\n                          shuffle=True,\n                          num_workers=0)\ndevice = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\n# Loss and optimizer\ncriterion = nn.CrossEntropyLoss()\noptimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)\n# Train the model",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\nmodel = NeuralNet(input_size, hidden_size, output_size).to(device)\n# Loss and optimizer\ncriterion = nn.CrossEntropyLoss()\noptimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)\n# Train the model\nfor epoch in range(num_epochs):\n    for (words, labels) in train_loader:\n        words = words.to(device)\n        labels = labels.to(dtype=torch.long).to(device)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "model = NeuralNet(input_size, hidden_size, output_size).to(device)\n# Loss and optimizer\ncriterion = nn.CrossEntropyLoss()\noptimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)\n# Train the model\nfor epoch in range(num_epochs):\n    for (words, labels) in train_loader:\n        words = words.to(device)\n        labels = labels.to(dtype=torch.long).to(device)\n        # Forward pass",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "criterion",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "criterion = nn.CrossEntropyLoss()\noptimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)\n# Train the model\nfor epoch in range(num_epochs):\n    for (words, labels) in train_loader:\n        words = words.to(device)\n        labels = labels.to(dtype=torch.long).to(device)\n        # Forward pass\n        outputs = model(words)\n        # if y would be one-hot, we must apply",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)\n# Train the model\nfor epoch in range(num_epochs):\n    for (words, labels) in train_loader:\n        words = words.to(device)\n        labels = labels.to(dtype=torch.long).to(device)\n        # Forward pass\n        outputs = model(words)\n        # if y would be one-hot, we must apply\n        # labels = torch.max(labels, 1)[1]",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "data = {\n    \"model_state\": model.state_dict(),\n    \"input_size\": input_size,\n    \"hidden_size\": hidden_size,\n    \"output_size\": output_size,\n    \"all_words\": all_words,\n    \"tags\": tags\n}\nFILE = \"data.pth\"\ntorch.save(data, FILE)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "FILE",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "FILE = \"data.pth\"\ntorch.save(data, FILE)\nprint(f'training complete. file saved to {FILE}')\nbot_name = \"Sam\"\ndef get_response(msg):\n    sentence = tokenize(msg)\n    X = bag_of_words(sentence, all_words)\n    X = X.reshape(1, X.shape[0])\n    X = torch.from_numpy(X).to(device)\n    output = model(X)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "bot_name",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "bot_name = \"Sam\"\ndef get_response(msg):\n    sentence = tokenize(msg)\n    X = bag_of_words(sentence, all_words)\n    X = X.reshape(1, X.shape[0])\n    X = torch.from_numpy(X).to(device)\n    output = model(X)\n    _, predicted = torch.max(output, dim=1)\n    tag = tags[predicted.item()]\n    probs = torch.softmax(output, dim=1)",
+        "detail": "train",
+        "documentation": {}
+    }
+]

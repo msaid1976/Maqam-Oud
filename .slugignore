@@ -1,0 +1,5 @@
+*.psd
+*.pdf
+*.mp3
+/test
+/spec
